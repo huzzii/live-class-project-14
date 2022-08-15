@@ -191,7 +191,7 @@ bottom-right > img:nth-child(2) {
 	border-radius: 50%;
 	background-color: #828282;
 	position: absolute;
-	left: -28px;
+	left: -27px;
 	top: 7px;
 }
 
@@ -202,4 +202,11 @@ bottom-right > img:nth-child(2) {
 
 .content-active::after {
 	background-color: #000;
+}
+
+.arrow{
+	position: fixed;
+	bottom: 50px;
+	right: 50px;
+	cursor: pointer;;
 }
