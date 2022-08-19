@@ -11,7 +11,7 @@ To replicate a given UI from an image.
 ## Time Taken
 
 ```
-5 Hours
+4 Hours
 ```
 
 ## Intended Outcome:
